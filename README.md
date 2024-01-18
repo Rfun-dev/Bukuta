@@ -7,10 +7,10 @@ and manage their daily finances
 
 ## Screenshots
 
-![Home Screen](https://ibb.co/pJ0nw8h)
-![Register Screen](https://ibb.co/4JdQG23)
-![Login Screen](https://ibb.co/zxmksfq)
-![Home Screen](https://ibb.co/nnsf06C)
-![Payment Screen](https://ibb.co/RYKCZNP)
-![Log Screen](https://ibb.co/RSj5KG1)
-![Notification Screen](https://ibb.co/8z6L2dh)
+![Home Screen](https://i.ibb.co/Fgxn3MH/Screenshot-2024-01-18-210712.png)
+![Register Screen](https://i.ibb.co/TrLCS1d/Screenshot-2024-01-18-210719.png)
+![Login Screen](https://i.ibb.co/qjDZB1T/Screenshot-2024-01-18-210730.png)
+![Home Screen](https://i.ibb.co/4YZMfKd/Screenshot-2024-01-18-210742.png)
+![Payment Screen](https://i.ibb.co/5G35tkv/Screenshot-2024-01-18-210801.png)
+![Log Screen](https://i.ibb.co/VNwKG0d/Screenshot-2024-01-18-210818.png)
+![Notification Screen](https://i.ibb.co/WDg4FPT/Screenshot-2024-01-18-210833.png)

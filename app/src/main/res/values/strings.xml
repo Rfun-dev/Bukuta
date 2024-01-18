@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bukuta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screnn_page_title">Hallo ! \nWelcome to BukuTa</string>
+    <string name="screen_page_subtitle">BukuTa is a digital wallet with features to organise your finances to achieve financial balance</string>
+    <string name="register_title">Welcome to BukuTa</string>
+    <string name="register_subtitle">Login to continue</string>
+    <string name="text_login">Login</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_username">username</string>
+    <string name="text_email">email</string>
+    <string name="text_password">password</string>
+    <string name="text_remember_me">Remember me</string>
+    <string name="text_or_sign_up_with">Or Sign Up with</string>
+    <string name="text_google">Google</string>
+    <string name="text_facebook">facebook</string>
+    <string name="text_already_have_an_account">Already have an account?</string>
+    <string name="text_welcome_back">Welcome Back</string>
+    <string name="text_don_t_have_an_account">Don’t have an account?</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_or_login_with">or login with</string>
+    <string name="text_home">Home</string>
+    <string name="text_income">Income</string>
+    <string name="text_expense">Expense</string>
+    <string name="example_rp_1_050_000_00">Rp 1.050.000,00</string>
+    <string name="text_saldo">Saldo</string>
+    <string name="text_bill">Bill</string>
+</resources>
